@@ -1,4 +1,4 @@
-# AWS Selenium Lambda Layer + AWS Lambda Function Full Template
+### AWS Selenium Lambda Layer + AWS Lambda Function Full Template
 
 This is an example of set up Selenium testing with AWS lambda layers Python3.6
 
